@@ -1,6 +1,7 @@
 package com.magik.usuario.infrastructure.repository;
 
-import com.magik.aprendendospring.infrastructure.entity.Endereco;
+
+import com.magik.usuario.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
